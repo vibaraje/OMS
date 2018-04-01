@@ -5,4 +5,3 @@ devops 1st commit
 Release branch 1st commit !!
 devops 1st commit
 devops 2nd commit
-master commited
